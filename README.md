@@ -1,0 +1,1 @@
+# Solucionario-DoingBayesianDataAnalysis-Kruschke
